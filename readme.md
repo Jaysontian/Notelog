@@ -1,1 +1,1 @@
-#Download [Notelog]()
+# Download [Notelog](www.google.com)
